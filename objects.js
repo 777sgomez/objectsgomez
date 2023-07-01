@@ -6,4 +6,10 @@ const movies = [
         director: "Chris Weitz",
         picture: "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_.jpg",
     },
+    {
+        name: "Jennifer's Body",
+        year: 2009,
+        director: "Karyn Kusama",
+        picture: "https://lumiere-a.akamaihd.net/v1/images/image_22a64aa3.jpeg?region=0%2C0%2C1400%2C2100",
+    },
 ]
