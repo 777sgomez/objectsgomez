@@ -19,3 +19,7 @@ const movies = [
         picture: "https://m.media-amazon.com/images/M/MV5BMjBlOTIxNGMtMDAwOS00OTFjLWJkNWEtMDg5NGU0NzE5ZWRhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_",
     }
 ];
+
+const template = movies.map(movie => `
+
+`);
