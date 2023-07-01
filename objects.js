@@ -22,6 +22,9 @@ const movies = [
 
 const template = movies.map(movie => `
 <li>
-
+    <p> Name: ${movie.name}</p>
+    <p> Year: ${movie.year}</p>
+    <p> Director: ${movie.director}</p>
+    <img src="${movie.picture}" height="400">
 </li>
 `);
