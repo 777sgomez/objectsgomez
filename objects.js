@@ -21,5 +21,7 @@ const movies = [
 ];
 
 const template = movies.map(movie => `
+<li>
 
+</li>
 `);
