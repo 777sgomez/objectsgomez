@@ -12,4 +12,10 @@ const movies = [
         director: "Karyn Kusama",
         picture: "https://lumiere-a.akamaihd.net/v1/images/image_22a64aa3.jpeg?region=0%2C0%2C1400%2C2100",
     },
-]
+    {
+        name: "Keanu",
+        year: 2016,
+        director: "Peter Antencio",
+        picture: "https://m.media-amazon.com/images/M/MV5BMjBlOTIxNGMtMDAwOS00OTFjLWJkNWEtMDg5NGU0NzE5ZWRhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_",
+    }
+];
