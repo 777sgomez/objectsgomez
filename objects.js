@@ -28,3 +28,4 @@ const template = movies.map(movie => `
     <img src="${movie.picture}" height="400">
 </li>
 `);
+ol.innerHTML = template.join('');
